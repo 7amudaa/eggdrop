@@ -31,7 +31,7 @@
 ################################################################################
 
 ## Config ##
-set up_cmdpfix "@"
+set up_cmdpfix "!"
 
 # This Option allow you to choose who can use the command. By default ops only
 # can use it: "o" however you change it to "v" for voice and above, or "-" to
