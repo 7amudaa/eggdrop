@@ -163,9 +163,9 @@ set ipstatus(version) "v1.1"
 #Romanian
 
 set black(iping.ro.1) "\[IPing\] Foloseste: \002!iping\002 <ip> / <\002host\002> / <website>"
-set black(iping.ro.2) "\002Destinatie\002: %msg.1% | \002Status\002:\0033 ONLINE\003 | \002Raspuns PING\002: %msg.2% ms"
-set black(iping.ro.3) "\002Destinatie\002: %msg.1% | \002Status\002:\0034 OFFLINE\003 | \002Raspuns PING\002: %msg.2% ms"
-set black(iping.ro.4) "\002Destinatie\002: %msg.1% | \002Status\002:\00314 INACCESIBILA\003 (%msg.2% pachete pierdute) | \002Raspuns PING\002: %msg.3% ms"
+set black(iping.ro.2) "\002Destinatie\002: %msg.1% | \002Status\002:\0033 ONLINE\003 | \002response PING\002: %msg.2% ms"
+set black(iping.ro.3) "\002Destinatie\002: %msg.1% | \002Status\002:\0034 OFFLINE\003 | \002response PING\002: %msg.2% ms"
+set black(iping.ro.4) "\002Destinatie\002: %msg.1% | \002Status\002:\00314 INACCESIBILA\003 (%msg.2% pachete pierdute) | \002response PING\002: %msg.3% ms"
 
 #English
 
