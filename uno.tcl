@@ -22,7 +22,7 @@
 # default settings (these are overridden by uno.cfg)
 set UnoAds		1
 set UnoDebug 		0
-set UnoChan 		"#dew"
+set UnoChan 		"#nasaud"
 set UnoRobot 		$botnick
 set UnoPointsName 	"Points"
 set UnoStopAfter 	3
