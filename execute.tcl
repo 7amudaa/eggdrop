@@ -30,7 +30,7 @@
 set eggshell(trigger)		"!"
 set eggshell(channels)		"#dew #gptmoe"
 set eggshell(ver)			"0.02"
-set eggshell(allowed)		"pwd hostname ls uname tail head less uptime id nproc" 
+set eggshell(allowed)		"pwd hostname ls uname tail head less uptime id nproc uptime" 
 set eggshell(restrictlines)	5
 
 ####### - BINDINGS - ########################################################
