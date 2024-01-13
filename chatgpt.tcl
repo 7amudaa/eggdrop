@@ -6,6 +6,8 @@ import configparser
 import pyshorteners
 import re
 
+"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"
+
 # Read configuration from file
 config = configparser.ConfigParser()
 config.read('chat.conf')
