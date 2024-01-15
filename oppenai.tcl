@@ -5,7 +5,7 @@ package require json
 # Replace this with a secure method to load the API key
 proc get_api_key {} {
 	# Visit: https://beta.openai.com/account/api-keys
-    return "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"
+    return "API-KEY"
 }
 # Define the trigger command
 set trigger_cmd "!openai"
