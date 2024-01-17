@@ -65,7 +65,7 @@ set clonescan(chantype) "1"
 ###SET THIS ONLY IF YOU HAVE SET THE PREVIOUS SETTING TO '1'###
 #Set the channels below (each separated by a space) on which this script would work.
 #USAGE: set clonescan(channels) "#channel1 #channel2 #mychannel"
-set clonescan(channels) "#mychannel #yourchannel"
+set clonescan(channels) "#dew #gptmoe"
 
 #Set the time here in 'minutes' after which you would like the bot to scan the channel for clones.
 #Note: Clones are detected in the format of: *!*@host.domain.com
