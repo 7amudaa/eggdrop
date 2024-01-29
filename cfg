@@ -1,0 +1,21 @@
+SERVER budapest.hu.eu.undernet.org 6667
+SERVER irc.undernet.org 6667
+SERVER madrid.es.eu.undernet.org 7000
+SERVER miami.fl.us.undernet.org 6662
+SERVER dallas.tx.us.undernet.org 6661
+ADMIN 0Nvb29DZo-fVxubUkufd0sbm49fWj-PTyw==
+
+######## bot ipv6 ########
+IDENT arab
+REALNAME arab
+NICKNAMES arab
+CHANNEL h9bU5Q==
+CMDCHAR -
+
+######## bot ipv6 ########
+IDENT mech
+REALNAME mech
+NICKNAMES moe
+CHANNEL h9bU5Q==
+CMDCHAR -
+
